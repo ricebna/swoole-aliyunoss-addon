@@ -1,5 +1,5 @@
 {
-    "name": "ricebna/swoole-aliyunoss-addon",
+    "name": "reasno/swoole-aliyunoss-addon",
     "description": "Make Aliyun OSS SDK work with swoole CURL_HOOK.",
     "type": "library",
     "license": "MIT",
